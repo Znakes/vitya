@@ -1,0 +1,23 @@
+{
+  "name": "vitya",
+  "version": "0.1.0",
+  "description": "an app to generate BDD scenarios by tracking QA'a moves",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfdeceited/vitya.git"
+  },
+  "keywords": [
+    "bdd",
+    "generate"
+  ],
+  "author": "selfdeceited, znakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfdeceited/vitya/issues"
+  },
+  "homepage": "https://github.com/selfdeceited/vitya#readme"
+}
